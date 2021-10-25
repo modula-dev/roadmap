@@ -1,4 +1,4 @@
-![https://logo.modula.dev/1/cover.png](1/cover.png)
+![https://modula-dev.github.io/logo/1/cover.png](1/cover.png)
 
 # [roadmap.modula.dev](https://roadmap.modula.dev/#/)
 
